@@ -1,4 +1,4 @@
-# GPSViewer
+# GPSMapViewer
 
 M5Stack を使った GPS 取得と地図表示
 
